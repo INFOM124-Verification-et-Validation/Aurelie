@@ -42,7 +42,7 @@ public class DirectionTest {
     }
 
     /**
-     * Do we get the correct delta when moving south??
+     * Do we get the correct delta when moving south?
      */
     @Test
     void testSouth() {
